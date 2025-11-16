@@ -1,0 +1,29 @@
+{
+    "id": "10DDBDD4",
+    "path": "F:/GitHub/I2HDS_Week5/R_read-data.Rmd",
+    "project_path": "R_read-data.Rmd",
+    "type": "r_markdown",
+    "hash": "2518384628",
+    "contents": "",
+    "dirty": false,
+    "created": 1763289402736.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "178,0",
+        "scrollLine": "169"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763286897,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763286897,
+    "read_only": false,
+    "read_only_alternatives": []
+}
